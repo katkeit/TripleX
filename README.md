@@ -12,6 +12,12 @@
 5) Find the folder where the zip was extracted and load the folder into Visual Studio.
 6) Compile the project
 
+## ❈ Features
+- The game starts at a menu to either play the game, get info, or exit the game.
+- There are three difficulties to choose from, which are Easy, Normal, or Hard.
+- There is a Tutorial mode with unlimited tries.
+- The game gets progressively harder.
+
 ## ❈ Documentation
 ### <a href = "https://code.visualstudio.com/docs">Visual Studio Code</a>
 ><b>NOTE</b>: Installation guide inside the Setup section. Open Visual Studio Code and compiling under C++ section after selecting your OS.
